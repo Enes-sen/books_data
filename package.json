@@ -1,0 +1,27 @@
+{
+  "name": "books_mock_server",
+  "version": "1.0.1",
+  "description": "this is a books mock server unchangble server",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "Mock",
+    "Mock-server",
+    "fake-api",
+    "json-api",
+    "fake-books-api"
+  ],
+  "author": "Enes Şen",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.4",
+    "nodemon": "^3.0.3"
+  },
+  "devDependencies": {
+    "negotiator": "^0.6.3"
+  }
+}
