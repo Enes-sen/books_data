@@ -4,7 +4,7 @@
   "description": "this is a books mock server unchangble server",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "keywords": [
     "Mock",
